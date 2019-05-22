@@ -142,7 +142,7 @@ label mas_monika_upsidedownisland:
     m "Well...I was about to fix it until I took another good look at it."
     m "It looks surreal, doesn't it?"
     m "I just feel like there's something special about it."
-    m "It's just… mesmerizing."
+    m "It's just...mesmerizing."
     return
 
 label mas_monika_glitchedmess:
